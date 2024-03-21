@@ -1,6 +1,9 @@
-### NOTE
-현재까지 OCR 모델 중에서는 가장 좋은 듯! 
+### SUNNY'S NOTE
+- 현재까지 OCR 모델 중에서는 가장 좋은 듯! 
+- 글자 단위로 학습
 
+
+---
 
 # KoOCR-tensorflow (Korean README)
 
