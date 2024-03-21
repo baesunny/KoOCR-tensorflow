@@ -1,4 +1,5 @@
-현재까지중에 
+### NOTE
+현재까지 OCR 모델 중에서는 가장 좋은 듯! 
 
 
 # KoOCR-tensorflow (Korean README)
