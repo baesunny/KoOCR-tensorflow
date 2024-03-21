@@ -1,3 +1,5 @@
+현재까지중에 
+
 
 # KoOCR-tensorflow (Korean README)
 
